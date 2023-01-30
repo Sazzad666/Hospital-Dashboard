@@ -1,0 +1,62 @@
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.staticwebassets.runtime.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.exe
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.deps.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.runtimeconfig.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.dll
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.pdb
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.AssemblyInfo.cs
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.ModernHospitalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.ModernHospitalManagement.props
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModernHospitalManagement.props
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModernHospitalManagement.props
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\scopedcss\bundle\ModernHospitalManagement.styles.css
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\scopedcss\projectbundle\ModernHospitalManagement.bundle.scp.css
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.dll
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\refint\ModernHospitalManagement.dll
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.pdb
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.genruntimeconfig.cache
+C:\Users\User\source\repos\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ref\ModernHospitalManagement.dll
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.staticwebassets.runtime.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.exe
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.deps.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.runtimeconfig.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.dll
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\bin\Debug\net6.0\ModernHospitalManagement.pdb
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.csproj.AssemblyReference.cache
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.AssemblyInfoInputs.cache
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.AssemblyInfo.cs
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.RazorAssemblyInfo.cache
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.RazorAssemblyInfo.cs
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.ModernHospitalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.ModernHospitalManagement.props
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModernHospitalManagement.props
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModernHospitalManagement.props
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\scopedcss\bundle\ModernHospitalManagement.styles.css
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\scopedcss\projectbundle\ModernHospitalManagement.bundle.scp.css
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.dll
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\refint\ModernHospitalManagement.dll
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.pdb
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ModernHospitalManagement.genruntimeconfig.cache
+C:\Users\Md. Soleman Hossain\OneDrive\Desktop\ModernHospitalManagement\ModernHospitalManagement\obj\Debug\net6.0\ref\ModernHospitalManagement.dll
